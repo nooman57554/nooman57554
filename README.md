@@ -1,4 +1,4 @@
-## Hi there 👋,luffy is here 
+## Hi there 👋
 <Img src="internal storage/download/vl12s7jf9y61.jpg
 " title="luffy">
 
