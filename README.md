@@ -1,5 +1,5 @@
 ## Hi there 👋
-<Img src="luffy.PNG" alt="luffy">
+<Img src="luffy.png" alt="luffy">
 
 
 
