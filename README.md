@@ -13,7 +13,7 @@
 
 ### Programming languages !
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C programming Language logo" title="c language" width="6% /></div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C programming Language logo" title="c language" width="6%"/></div>
   
   
 ### 
