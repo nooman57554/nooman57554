@@ -1,5 +1,19 @@
+
 # Hi there 👋
-![image](https://i.pinimg.com/736x/98/5e/d6/985ed6d4fd0aae06dceef9673d5bfd9e.jpg)
+
+### My Stats :
+<div>
+<img  src="luffy.webp">
+    
+<img align="top" src="http://github-readme-streak-stats.herokuapp.com?user=nooman57554&theme=dark&background=000000">
+ 
+</div>
+ 
+
+    
+
+    
+
 
 ## Some Information !
 -
