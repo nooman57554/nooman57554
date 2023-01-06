@@ -26,7 +26,10 @@
 
 ### Programming languages !
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C programming Language logo" title="c language" width="6%" /></div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C programming Language logo" title="c language" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooman57554&layout=compact&theme=vision-friendly-dark" alt="language bar" title="most used languages">
+
+</div>
   
   
 ### 
@@ -50,8 +53,9 @@
   
   ----
   
-  ### My Stats :
+ <!--- ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nooman57554&theme=dark&background=000000)](https://git.io/streak-stats)
+--->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooman57554&layout=compact&theme=vision-friendly-dark)](https://github.com/nooman57554/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooman57554&layout=compact&theme=vision-friendly-dark)](https://github.com/nooman57554/github-readme-stats) 
+-->
