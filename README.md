@@ -5,7 +5,7 @@
 <div>
 <img  src="luffy.webp">
     
-<img align="top" src="http://github-readme-streak-stats.herokuapp.com?user=nooman57554&theme=dark&background=000000">
+<img align="top" style="width: 35%" src="http://github-readme-streak-stats.herokuapp.com?user=nooman57554&theme=dark&background=000000">
  
 </div>
  
