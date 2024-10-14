@@ -1,19 +1,6 @@
 
 # Hi there 👋
 
-
- 
-
-    
-
-    
-
-
-
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=nooman57554&color=green)
 
 ## Tech Stack !
@@ -21,7 +8,7 @@
 ### Programming languages !
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C programming Language logo" title="c language" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooman57554&layout=compact&theme=vision-friendly-dark" alt="language bar" title="most used languages">
+    
 
 </div>
   
@@ -49,6 +36,7 @@
 <div>
     
 <img align="top" style="width: 59%" src="http://github-readme-streak-stats.herokuapp.com?user=nooman57554&theme=dark&background=000000">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooman57554&layout=compact&theme=vision-friendly-dark" alt="language bar" title="most used languages">
  
 </div>
   
