@@ -1,7 +1,7 @@
 
 # Hi there 
 
-I'm a dedicated computer science student. I am currently learning and seeking knowledge in coding and all things related to software development. I am focused on exploring new technologies and enhancing my skills to become a proficient programmer.
+I'm a dedicated computer science student. currently learning and seeking knowledge in coding and all things related to software development. I am focused on exploring new technologies and enhancing my skills to become a proficient programmer.
 
 
 ![](https://komarev.com/ghpvc/?username=nooman57554&color=green)
