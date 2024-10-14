@@ -1,13 +1,7 @@
 
 # Hi there 👋
 
-### My Stats :
-<div>
-<img  src="luffy.webp">
-    
-<img align="top" style="width: 59%" src="http://github-readme-streak-stats.herokuapp.com?user=nooman57554&theme=dark&background=000000">
- 
-</div>
+
  
 
     
@@ -50,6 +44,13 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="github" alt="github logo" width="6%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode logo" width="6%"/>
   </div>
+
+  ### My Stats :
+<div>
+    
+<img align="top" style="width: 59%" src="http://github-readme-streak-stats.herokuapp.com?user=nooman57554&theme=dark&background=000000">
+ 
+</div>
   
   ----
   
