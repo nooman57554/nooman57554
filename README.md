@@ -1,5 +1,8 @@
 
-# Hi there 👋
+# Hi there 
+
+I'm a dedicated computer science student. I am currently learning and seeking knowledge in coding and all things related to software development. I am focused on exploring new technologies and enhancing my skills to become a proficient programmer.
+
 
 ![](https://komarev.com/ghpvc/?username=nooman57554&color=green)
 
@@ -7,10 +10,13 @@
 
 ### Programming languages !
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C programming Language logo" title="c language" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C programming Language logo" title="C language" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ programming language logo" title="C++ language" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java programming language logo" title="Java language" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python programming language logo" title="Python language" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin programming language logo" title="Kotlin language" width="6%" />
 </div>
+
   
   
 ### 
@@ -21,7 +27,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" title="JS" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   
-  ### Back-End -Null
+  ### Back-End:
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" title="PHP" width="6%" />
+</div>
+
+
   
   ### Tools And Software
   <div>
@@ -36,6 +47,8 @@
 <div>
     
 <img align="top" style="width: 59%" src="http://github-readme-streak-stats.herokuapp.com?user=nooman57554&theme=dark&background=000000">
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooman57554&layout=compact&theme=vision-friendly-dark" alt="language bar" title="most used languages">
  
 </div>
